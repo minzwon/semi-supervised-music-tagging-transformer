@@ -1,0 +1,9 @@
+torchaudio-augmentations
+librosa==0.8.1
+matplotlib
+numpy
+tqdm
+ghp-import
+pytorch_lightning==1.2.8
+jupyter-book
+einops
